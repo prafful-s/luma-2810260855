@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/bipradha/bp-slimlinewarehouseeds/language-masters/en:/",
+    "/content/bipradha/bp-slimlinewarehouseeds/language-masters/en/:/en/",
+    "/content/bipradha/bp-slimlinewarehouseeds/configuration:/.helix/config.json",
+    "/content/bipradha/bp-slimlinewarehouseeds/metadata:/metadata.json",
+    "/content/bipradha/bp-slimlinewarehouseeds/redirects:/redirects.json",
+    "/content/bipradha/bp-slimlinewarehouseeds/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/bipradha/bp-slimlinewarehouseeds/",
+    "/content/dam/bipradha/bp-slimlinewarehouseeds/"
   ]
 }
